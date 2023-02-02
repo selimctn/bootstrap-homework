@@ -1,0 +1,51 @@
+#header {
+  background: gray;
+  text-align: center;
+  padding: 15px;
+}
+
+.left {
+  margin-left: 20px;
+  padding-right: 30px;
+}
+
+.left a {
+  color: yellowgreen;
+}
+
+.right a {
+  padding: 7px;
+  color: #fff;
+}
+
+body {
+  background-color: #e9ecef;
+}
+
+.article {
+  text-align: center;
+}
+
+.article h1 {
+  color: yellowgreen;
+  margin-top: 75px;
+}
+
+.article-2 {
+  text-align: center;
+}
+
+.article-2 ul {
+  list-style-type: none;
+  margin-right: 30px;
+}
+
+.article-2 button {
+  background-color: yellowgreen;
+  color: #fff;
+}
+
+.container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
